@@ -11,6 +11,6 @@ public class TestResult {
         
 
         System.out.println(Arrays.toString(a));  // Выводим на экран массив который получился 
-        System.out.println("Число яке найчастіше повторюється " + Exercise.Calculate(a));
+        System.out.println("Число которое чаще всего повторяется " + Exercise.Calculate(a));
     }
 }
