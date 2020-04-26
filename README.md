@@ -13,7 +13,7 @@
  ---
  
  ### РЕЗУЛЬТАТ
- https://raw.githubusercontent.com/ppc-ntu-khpi/virazi-keruvannya-34-TheOdie/master/image.png
+<img src="https://raw.githubusercontent.com/ppc-ntu-khpi/virazi-keruvannya-34-TheOdie/master/image.png" width="100%"/>
 
 
 
