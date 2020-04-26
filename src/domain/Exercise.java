@@ -4,10 +4,7 @@ package domain;
 
 public class Exercise {
     public static float Calculate(int[] a){
-        
-/**
- * 
- */ 
+         
     
         int m = 1;                           // Описываем нужную переменную и массив, для дальнейших операций
         int a1[] = new int[a.length];
