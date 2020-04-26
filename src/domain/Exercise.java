@@ -11,7 +11,7 @@ public class Exercise {
 
         for (int i = 0; i < a.length; i++) {        // Создаём массив с пыдрахункамы повторений одинаковых цифр в главном меню
             for (int j = 0; j < a.length; j++){
-                if ((a[j] == a[i] ) && (j != i)){ ++m;                                    }
+                if ((a[j] == a[i] ) && (j != i)){ ++m;       }
             }
             a1[i] = m;
             m = 1;
